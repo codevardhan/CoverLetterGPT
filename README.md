@@ -15,7 +15,7 @@ This repository contains a simple Python script that utilizes the power of the G
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/gpt-cover-letter-generator.git
+git clone git@github.com:codevardhan/CoverLetterGPT.git
 ```
 Navigate to the project directory:
 
