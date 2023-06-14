@@ -1,8 +1,8 @@
 Job Description: InnovateTech Solutions - Flutter App Development Internship
 
-InnovateTech Solutions, a dynamic and innovative digital agency specializing in end-to-end online solutions, 
-including website design, app development, marketing, and strategic consulting, is seeking motivated individuals 
-to join our team as Flutter App Development Interns. With a global client base and strategic partnerships, we are 
+InnovateTech Solutions, a dynamic and innovative digital agency specializing in end-to-end online solutions,
+including website design, app development, marketing, and strategic consulting, is seeking motivated individuals
+to join our team as Flutter App Development Interns. With a global client base and strategic partnerships, we are
 committed to delivering groundbreaking digital solutions.
 
 About the Internship:
@@ -18,7 +18,7 @@ To thrive in this role, you should possess the following skills:
 
 Proficiency in spoken English.
 Knowledge of Firebase, Flutter, GitHub, and REST API.
-Enthusiasm for earning certifications in various relevant skills, such as Git, Business Communication, 
+Enthusiasm for earning certifications in various relevant skills, such as Git, Business Communication,
 Android App Development, Web Development, and Git & GitHub.
 
 Who Can Apply:
