@@ -25,7 +25,7 @@ cd gpt-cover-letter-generator
 Create a .env file and put your OpenAI token in it:
 
 ```bash
-OPENAPI_KEY=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
+OPENAPI_KEY=<your-key>
 ```
 
 Give appropriate permission to the bash script to run
