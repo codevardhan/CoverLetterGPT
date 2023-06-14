@@ -22,19 +22,24 @@ Navigate to the project directory:
 ```bash
 cd gpt-cover-letter-generator
 ```
-Install the required dependencies:
+Create a .env file and put your OpenAI token in it:
 
 ```bash
-pip install -r requirements.txt
+OPENAPI_KEY=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
 ```
 
+Give appropriate permission to the bash script to run
+
+```bash
+chmod +x run.sh
+```
 ## Usage
 
 
 Run the following command to generate the cover letter:
 
 ```bash
-python main.py College_Resume.pdf job_description.txt
+./run.sh College_Resume.pdf job_description.txt
 ```
 
 Replace resume.pdf with the path to your resume file, and job_description.txt with the path to your job description file.
